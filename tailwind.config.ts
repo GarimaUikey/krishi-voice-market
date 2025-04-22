@@ -63,8 +63,8 @@ export default {
           ring: 'hsl(var(--sidebar-ring))'
         },
         krishi: {
-          yellow: '#efd101',
-          green: '#558e0d',
+          yellow: '#558e0d',
+          green: '#efd101',
         }
       },
       borderRadius: {
